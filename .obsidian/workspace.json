@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "ee040f89b4e87743",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c70611148bf570d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b78d86a26653a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/МатАнализ/Непрерывность/Непрерывность.Следствие 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Непрерывность.Следствие 2"
+            }
+          },
+          {
+            "id": "072ee9b975da9964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/МатАнализ/Предельная точка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Предельная точка"
+            }
+          },
+          {
+            "id": "a2a16f9ddba9c912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/МатАнализ/Непрерывность/Непрерывность.Следствие 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Непрерывность.Следствие 2"
+            }
+          },
+          {
+            "id": "c2dc2dfbd4c374f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/Алгебра/Отображение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отображение"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e36afe1a6bbbc0fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0144cf8ee09e767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2328b6f90e4f99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "3e7bba5af1fed822",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "86cac30981bde7e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49c52e7370ee14e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f5953c8f71053bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2637de8c28e386dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Матан/Алгебра/Отображение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Отображение"
+            }
+          },
+          {
+            "id": "ccd2c7b3313f7613",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Таблица умножения.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Таблица умножения"
+            }
+          },
+          {
+            "id": "35e61f65ec760e1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "0a83a5c84eb1be06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Таблица умножения.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Таблица умножения"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c2dc2dfbd4c374f9",
+  "lastOpenFiles": [
+    "Матан/Алгебра/ТеорияКатегорий/Метакатегория.md",
+    "Матан/Алгебра/ТеорияКатегорий/Категория.md",
+    "Матан/Алгебра/Отображение.md",
+    "Матан/Множества.md",
+    "Матан/МатАнализ/Предельная точка.md",
+    "Матан/МатАнализ/Предел фукции.md",
+    "Матан/МатАнализ/Окрестность произвольного множества,являющегося подмножеством R.md",
+    "Матан/МатАнализ/Выколотая окрестность.md",
+    "Матан/МатАнализ/Непрерывность/Непрерывность.Следствие 2.md",
+    "Матан/МатАнализ/Непрерывность/Непрерывность.Следствие 1.md",
+    "Матан/МатАнализ/Непрерывность/Непрерывность.Определения.md",
+    "Матан/МатАнализ/Непрерывность",
+    "Английский/Словарь",
+    "Английский",
+    "Добро пожаловать.md",
+    "Таблица умножения.md",
+    "Матан/Алгебра/ТеорияКатегорий",
+    "Матан/Алгебра",
+    "Матан/МатАнализ",
+    "Матан"
+  ]
+}
