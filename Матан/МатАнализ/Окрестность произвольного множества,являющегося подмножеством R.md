@@ -1,1 +1,0 @@
-Пусть $E\subset\mathbb{R}$ и $a\in E$ ,тогда: $$U_E(a):= E\cap U(a)$$ 
